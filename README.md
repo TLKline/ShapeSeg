@@ -1,7 +1,7 @@
-shape-seg
+ShapeSeg
 ==========================
 
-The "shape-seg" package consists of the code for, "Invoking Shape Preference in Segmentation Models with Neural Style Transfer." This software is made available so that it may be of use to the scientific and clinical communities. The source codes can be run independently from the command line.
+The "ShapeSeg" package consists of the code for, "Invoking Shape Preference in Segmentation Models with Neural Style Transfer." This software is made available so that it may be of use to the scientific and clinical communities. The source codes can be run independently from the command line.
 
 
 References
